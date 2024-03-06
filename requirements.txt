@@ -1,0 +1,4 @@
+tensorflow
+DialogTag
+flask
+requests
